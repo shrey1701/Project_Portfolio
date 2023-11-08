@@ -12,7 +12,7 @@
 
 ✦ With the created dashboard, Revenue team of Atliq Grands were able to gain insights about their revenue trend.
 
-![alt text]()
+![alt text](image.jpg)
 
 ## Project-2 : Sales Insight of AtliQ Hardware
 
