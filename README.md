@@ -26,6 +26,7 @@
 
 ✦ The final dashboard was effective at displaying the sales allowing users to understand the data and make informed decisions.
 
+#Atliq Hardware Analysis  ![alt text](img2.png)
 
 ## Project-3 : Sales Insights of Supermarket
 
