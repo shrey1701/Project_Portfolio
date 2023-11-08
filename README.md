@@ -38,5 +38,5 @@
 
 ✦ At the end the conclusion found in this project help the store to increase its revenue by targeting a segment of customer.
 
-
+#Supermarket Sales Analysis  ![alt text](img3(1).png) ![alt text](img3(2).png)
  
