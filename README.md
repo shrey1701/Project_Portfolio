@@ -1,6 +1,6 @@
 # Shreyash's Portfolio
 
-## Project-1 : Revenue Insight in Hospitality Domain
+## [Project-1 : Revenue Insight in Hospitality Domain](https://github.com/shrey1701/analytics_projects/tree/main/Atliq_grand)
 
 ✦ Data was taken from a github repository(dataset of demo company).
 
@@ -16,7 +16,7 @@
 
 
 
-## Project-2 : Sales Insight of AtliQ Hardware
+## [Project-2 : Sales Insight of AtliQ Hardware](https://github.com/shrey1701/analytics_projects/tree/main/Atliq_hardware)
 
 ✦ Data was provided by Codebasic(youtube) - a demo dataset of company named AtliQ Hardware.
 
