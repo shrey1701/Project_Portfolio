@@ -32,7 +32,7 @@
 
 
 
-## Project-3 : Sales Insights of Supermarket
+## [Project-3 : Sales Insights of Supermarket](https://github.com/shrey1701/analytics_projects/tree/main/py_proj)
 
 ✦ Data was taken from kaggle.
 
