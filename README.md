@@ -14,6 +14,8 @@
 
 #Atliq Grand Analysis  ![alt text](img.png)
 
+
+
 ## Project-2 : Sales Insight of AtliQ Hardware
 
 ✦ Data was provided by Codebasic(youtube) - a demo dataset of company named AtliQ Hardware.
@@ -28,6 +30,8 @@
 
 #Atliq Hardware Analysis  ![alt text](img2.png)
 
+
+
 ## Project-3 : Sales Insights of Supermarket
 
 ✦ Data was taken from kaggle.
@@ -38,5 +42,5 @@
 
 ✦ At the end the conclusion found in this project help the store to increase its revenue by targeting a segment of customer.
 
-#Supermarket Sales Analysis  ![alt text](img3(1).png) ![alt text](img3(2).png)
+#Supermarket Sales Analysis  ![alt text](img_3.png) ![alt text](img_4.png)
  
