@@ -2,7 +2,7 @@
 
 By Shreyash Harichandan
 
-## [Project-1 : Amazon Prime Shows Analysis](https://github.com/shrey1701/analytics_projects/tree/main/amazon_prime)
+## [Project-1 : Amazon Prime Video Analysis](https://github.com/shrey1701/analytics_projects/tree/main/amazon_prime)
 
 ✦ Prime dataset was taken from kaggle repository.
 
