@@ -1,4 +1,6 @@
-# Shreyash's Portfolio
+# Data Analytics Project Portfolio
+
+By Shreyash Harichandan
 
 ## [Project-1 : Revenue Insight in Hospitality Domain](https://github.com/shrey1701/analytics_projects/tree/main/Atliq_grand)
 
