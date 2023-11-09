@@ -2,7 +2,20 @@
 
 By Shreyash Harichandan
 
-## [Project-1 : Revenue Insight in Hospitality Domain](https://github.com/shrey1701/analytics_projects/tree/main/Atliq_grand)
+## [Project-1 : Amazon Prime Shows Analysis](https://github.com/shrey1701/analytics_projects/tree/main/amazon_prime)
+
+✦ Prime dataset was taken from kaggle repository.
+
+✦ The techstack involves in the project are Power BI and Excel.
+
+✦ The project involves data cleaning in four segment of the datasetand also data visualization and statistical analysis.
+
+✦ Created a dashboard in Power BI using 2021 dataset of Prime videos which helps in analyzing all the content by filtering 
+   data on Released year and Country .
+
+#Prime videos analysis  ![alt text](img6.png)
+
+## [Project-2 : Revenue Insight in Hospitality Domain](https://github.com/shrey1701/analytics_projects/tree/main/Atliq_grand)
 
 ✦ Data was taken from a github repository(dataset of demo company).
 
@@ -18,7 +31,7 @@ By Shreyash Harichandan
 
 
 
-## [Project-2 : Sales Insight of AtliQ Hardware](https://github.com/shrey1701/analytics_projects/tree/main/Atliq_hardware)
+## [Project-3 : Sales Insight of AtliQ Hardware](https://github.com/shrey1701/analytics_projects/tree/main/Atliq_hardware)
 
 ✦ Data was provided by Codebasic(youtube) - a demo dataset of company named AtliQ Hardware.
 
@@ -34,7 +47,7 @@ By Shreyash Harichandan
 
 
 
-## [Project-3 : Sales Insights of Supermarket](https://github.com/shrey1701/analytics_projects/tree/main/py_proj)
+## [Project-4 : Sales Insights of Supermarket](https://github.com/shrey1701/analytics_projects/tree/main/py_proj)
 
 ✦ Data was taken from kaggle.
 
